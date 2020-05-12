@@ -1,0 +1,22 @@
+body{
+    background-image: url('new.jpg');
+    background-repeat: no-repeat;
+}
+
+.footer{
+    background-color: brown;
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer a{
+    margin-top:25px;
+    margin-right: 25px;
+}
+
+.footer-heading{
+    margin-top:25px;
+    margin-right: 25px;
+}
